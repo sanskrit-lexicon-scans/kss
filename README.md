@@ -9,5 +9,5 @@ Used as a link target for the literary source references
 
 <ls>KATHĀS. 20, 216.</ls>
 
-for dictionaries pwg, pw, pwkvn, sch.
-Ref: https://github.com/sanskrit-lexicon/PWG/issues/??/
+for dictionaries pwg, pw, pwkvn, sch, mw.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/70/
